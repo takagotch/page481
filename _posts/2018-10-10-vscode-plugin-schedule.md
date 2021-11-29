@@ -11,6 +11,8 @@ author: takagotch
 
 ## Junya.じゅんや
 
+![](https://yt3.ggpht.com/ytc/AKedOLTZJzYMaSUyGUE3BMvbSYPOrMYPS37B-VsLZdiY9A=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 ```txt
