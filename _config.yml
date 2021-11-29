@@ -8,8 +8,8 @@
 # Site settings
 title: Youtuber　
 brief-intro: 年収ランキングサイト　
-baseurl: "/page481/" # the subpath of your site, e.g. /blog
-url: "https://takagotch.github.io/" # the base hostname & protocol for your site
+baseurl: "/page481" # the subpath of your site, e.g. /blog
+url: "https://takagotch.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ zhihu_username: gaohaoyang
 linkedIn_username: gaohaoyang
 dribbble_username:
 
-description_footer: 日本一の激安王！
+description_footer: Youtuberランキング
 
 # comments
 # two ways to comment, only choose one, and use your own short name
