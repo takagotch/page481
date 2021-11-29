@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "提升用户体验的前端动画"
-categories: JavaScript
+title:  "まいぜんシスターズ"
+Categories: JavaScript
 tags: 动画 手势
-author: HyG
+author: まいぜんシスターズ
 ---
 
 * content
