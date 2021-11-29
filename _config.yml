@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: TKVTV
-brief-intro: 取引量No.1！ *当社比
-baseurl: "/page74/" # the subpath of your site, e.g. /blog
+title: Youtuber　
+brief-intro: 年収ランキングサイト　
+baseurl: "/page481/" # the subpath of your site, e.g. /blog
 url: "https://takagotch.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
