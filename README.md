@@ -1,4 +1,4 @@
-### ニュースサイト　
+### Youtuber 年収ランキングサイト「ようつべ」　
 
 https://takagotch.github.io/page481/
 
@@ -9,10 +9,7 @@ https://takagotch.github.io/page481/
 
 
 ```
-ホスホス
-出会い系アプリ
 
-ぴゅあらば
 
 ```
 
