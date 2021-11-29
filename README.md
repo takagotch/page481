@@ -1,4 +1,4 @@
-### Youtuber 年収ランキングサイト「カウントダウンYT」　
+### Youtuber 年収ランキングサイト「カウントダウンYT」　2021
 
 https://takagotch.github.io/page481/
 
@@ -9,11 +9,24 @@ https://takagotch.github.io/page481/
 
 
 ```
+Youtuber 年収ランキングサイト「カウントダウンYT」　2021
 
-
+Youtuber 年収ランキングサイト「カウントダウンYT」　2020
+Youtuber 年収ランキングサイト「カウントダウンYT」　2019
+Youtuber 年収ランキングサイト「カウントダウンYT」　2018
+Youtuber 年収ランキングサイト「カウントダウンYT」　2017
+...
 ```
 
 ```
+消す（コメントアウト）
+Archive、 Recent Posts、日付calender　コメントアウト
+
+残す
+ホーム
+カテゴリー
+タグ
+
 ```
 
 ```
