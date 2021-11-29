@@ -1,4 +1,4 @@
-### Youtuber 年収ランキングサイト「ようつべ」　
+### Youtuber 年収ランキングサイト「カウントダウンYT」　
 
 https://takagotch.github.io/page481/
 
