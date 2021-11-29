@@ -8,8 +8,8 @@
 # Site settings
 title: Youtuber
 brief-intro: 年収ランキングサイト
-baseurl: "https://takagotch.github.io/page481" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/page481" # the subpath of your site, e.g. /blog
+url: "https://takagotch.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
