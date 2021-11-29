@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "最強の風俗案内所💁"
+title:  "Junya.じゅんや"
 categories: JavaScript
 tags: 風俗 AVサイト markdown
 author: takagotch
