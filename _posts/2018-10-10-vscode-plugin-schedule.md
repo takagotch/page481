@@ -2,8 +2,8 @@
 layout: post
 title:  "Junya.じゅんや"
 categories: JavaScript
-tags: 風俗 AVサイト markdown
-author: takagotch
+tags: 2021 2020 2019
+author: Junya.じゅんや
 ---
 
 * content
